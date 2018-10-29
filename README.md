@@ -11,7 +11,16 @@ It makes use o TDD and Trunk-based development.
 
 ### To do
 
-Work that has not been started. Start by writing tests for the feature you are about to implement. See the [testing section](#testing)
+Work that has not been started. Tasks come from breaking down User Stories. When a story is ready to be worked on, its fine-grain details are fleshed out; it is then developed and tested before moving on to the next story, essentially building the application up one completed piece at a time.
+
+This allows definition and development to happen in parallel, using a cross-functional team:
+
+The team breaks a high level story down into low level stories A, B, and C which are accepted into the next iteration;
+Conditions of Satisfaction, wireframes, and supporting artifacts are fleshed out for Story A;
+Development begins on Story A; meanwhile detailed requirements are fleshed out for Story B;
+Story A goes into testing; Story B goes into development; Story C goes into detailed requirements definition;
+
+Start by writing tests for the feature you are about to implement. See the [testing section](#testing)
 
 ### In progress
 
