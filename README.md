@@ -1,7 +1,7 @@
 # Developer workflow
 
 This guide tries to define an effective workflow for software development. 
-It makes use o TDD and Trunk-based development.
+It makes use of TDD and Trunk-based development.
 
 ## Premisses
 * To be able to quickly deviler well tested code, adopt small tasks.
